@@ -4,7 +4,7 @@ import InquirePresenter from "./InquirePresenter"
 const InquireContainer = () => {
     return (
         <>
-            <InquirePresenter></InquirePresenter>
+            <InquirePresenter/>
         </>
     );
 }

@@ -4,7 +4,7 @@ import AMPresenter from "./AMPresenter"
 const AMContainer = () => {
     return (
         <>
-            <AMPresenter/>
+            <AMPresenter></AMPresenter>
         </>
     );
 }
